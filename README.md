@@ -1,5 +1,4 @@
-# 404-Page
-oefening 1-404 page
+
 HTML-CSS - Opdracht 4: 404 HTML
 Doelstellingen
 Het versterken van je kennis over Semantische HTML.
@@ -18,3 +17,5 @@ Voeg een animatie toe die geactiveerd wordt zodra je over het element scrollt.
 Hulpbronnen
 CSS3 Animations
 animate.css
+
+project url: https://willemvangenechten.github.io/404-Page/
