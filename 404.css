@@ -10,7 +10,7 @@ body{
     text-align: center;
 }
 .container{
-    max-width: 960px;
+    max-width: 80%;
     margin: auto;
     padding: 0 30px;
 }
@@ -55,7 +55,7 @@ body{
     animation-name: btn;
     animation-duration: 3s;
     animation-fill-mode: forwards;
-    animation-delay: 3s;
+    animation-delay: 6s;
 
     transition-property: transform;
     transition-duration: 1s;
@@ -66,5 +66,22 @@ body{
 }
 @keyframes btn {
     0% {opacity: 0}
+    100% {opacity: 1}
+}
+.image {
+    width: 20%;
+    height: 20%;
+    margin: auto;
+    padding: 2%;
+    position: relative; 
+    animation-name: image;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-delay: 3s;
+    opacity: 0;
+}
+
+@keyframes image {
+    O% {opacity: 0}
     100% {opacity: 1}
 }
